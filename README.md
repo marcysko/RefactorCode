@@ -7,7 +7,7 @@ To refactor an existing webpage in order to make it accessible, so it is optimiz
 
 
 You can access the deployed application with the GitHup Pages link:
-[https://jorguzman100.github.io/01_Code_Refactor_JGR/](https://jorguzman100.github.io/01_Code_Refactor_JGR/)
+[https://jorguzman100.github.io/01_Code_Refactor_JGR/](https://marcysko.github.io/RefactorCode/)
 
 
 ## References
