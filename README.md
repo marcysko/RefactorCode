@@ -3,7 +3,7 @@ BootCamp Challenge - 1. HTML CSS Git Challenge: Code Refactor
 
 ## The Challenge
 To refactor an existing webpage in order to make it accessible, so it is optimized for search engines.
-![](./assets/images/project_screen_Shot.png)
+![](./assets/images/Horiseon.png)
 
 
 You can access the deployed application with the GitHup Pages link:
